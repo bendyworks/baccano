@@ -21,6 +21,7 @@ class Rng
   end
 
   def skin_tone
+    p ColorPicker.new(name: "skin_tones").color_from_file
     ColorPicker.new(name: "skin_tones").color_from_file
   end
 
@@ -32,7 +33,7 @@ class Rng
   end
 
   def glasses
-    Feature.new(partial: with_fallback(60) { attribute_partial("glasses") })
+    Feature.new(partial: with_fallback(0) { attribute_partial("glasses") })
   end
 
   def eyes
