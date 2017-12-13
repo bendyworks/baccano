@@ -2,7 +2,7 @@ require "color"
 require "color/rgb/contrast"
 
 class ColorPicker
-  MINIMUM_CONTRAST = 0.4
+  MINIMUM_CONTRAST = 0.2
 
   def initialize(name: nil)
     @name = name
@@ -25,7 +25,7 @@ class ColorPicker
   attr_reader :name
 
   def channel
-    (0..255).to_a.sample
+    (90..255).to_a.sample
   end
 
   def sample_from_file
