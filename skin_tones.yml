@@ -1,43 +1,50 @@
 ---
 skin_tones:
-  # Naming From http://www.color-blindness.com/color-name-hue/
-  # # Chinook
+  #Emoji Yellow
   -
-    - 148
-    - 211
-    - 152
-  # # Morning Glory
-  -
-    - 146
-    - 201
-    - 209
-  # # Can Can
-  -
-    - 206
-    - 144
-    - 180
-  # # Petite Orchard
-  -
-    - 221
-    - 155
-    - 156
-  # # grey
-  -
-    - 188
-    - 188
-    - 188
-  # #Magenta
+    - 247
+    - 247
+    - 17
+
+
+  # # Naming From http://www.color-blindness.com/color-name-hue/
+  # # # Chinook
   # -
-  #   - 255
+  #   - 148
+  #   - 211
+  #   - 152
+  # # # Morning Glory
+  # -
+  #   - 146
+  #   - 201
+  #   - 209
+  # # # Can Can
+  # -
+  #   - 206
+  #   - 144
+  #   - 180
+  # # # Petite Orchard
+  # -
+  #   - 221
+  #   - 155
+  #   - 156
+  # # # grey
+  # -
+  #   - 188
+  #   - 188
+  #   - 188
+  # # #Magenta
+  # # -
+  # #   - 255
+  # #   - 0
+  # #   - 127
+  # # #Caribbean Green
+  # -
   #   - 0
-  #   - 127
-  # #Caribbean Green
-  -
-    - 0
-    - 201
-    - 124
-  # # Medium Spring green
-  -
-    - 0
-    - 229
-    - 145
+  #   - 201
+  #   - 124
+  # # # Medium Spring green
+  # -
+  #   - 0
+  #   - 229
+  #   - 145
