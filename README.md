@@ -1,8 +1,8 @@
-# Baccano
+A quick variant of Baccano with some options removed.
 
-1. User profile images
-2. `_____`
-3. profit?
+Main Repo:
+https://github.com/thoughtbot/baccano
+
 
 ## Architecture
 
